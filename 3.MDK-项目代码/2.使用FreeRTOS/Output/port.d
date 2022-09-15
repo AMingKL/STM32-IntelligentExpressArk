@@ -1,0 +1,53 @@
+..\output\port.o: ..\RTOS\port\RVDS\ARM_CM3\port.c
+..\output\port.o: ..\RTOS\include\FreeRTOS.h
+..\output\port.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\port.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\port.o: ..\Users\FreeRTOSConfig.h
+..\output\port.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\port.o: ..\Libraries\CMSIS\core_cm3.h
+..\output\port.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\output\port.o: ..\Users\stm32f10x_conf.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+..\output\port.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+..\output\port.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\output\port.o: ..\Users\myconfig.h
+..\output\port.o: ..\Hardware\delay\delay.h
+..\output\port.o: ..\Hardware\sys\sys.h
+..\output\port.o: ..\Hardware\Tim3\tim3.h
+..\output\port.o: ..\Hardware\GPIO\gpio.h
+..\output\port.o: ..\Hardware\nvic\nvic.h
+..\output\port.o: ..\Hardware\AS608\as608.h
+..\output\port.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\port.o: ..\Hardware\USART1\usart1.h
+..\output\port.o: ..\Hardware\USART2\usart2.h
+..\output\port.o: ..\Hardware\USART3\usart3.h
+..\output\port.o: ..\Hardware\gsm\sim800c.h
+..\output\port.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\string.h
+..\output\port.o: ..\RTOS\include\projdefs.h
+..\output\port.o: ..\RTOS\include\portable.h
+..\output\port.o: ..\RTOS\include\deprecated_definitions.h
+..\output\port.o: ..\RTOS\port\RVDS\ARM_CM3\portmacro.h
+..\output\port.o: ..\RTOS\include\mpu_wrappers.h
+..\output\port.o: ..\RTOS\include\task.h
+..\output\port.o: ..\RTOS\include\list.h

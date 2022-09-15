@@ -1,0 +1,35 @@
+..\output\sim800c.o: ..\Hardware\gsm\sim800c.c
+..\output\sim800c.o: ..\Hardware\gsm\sim800c.h
+..\output\sim800c.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\sim800c.o: ..\Libraries\CMSIS\core_cm3.h
+..\output\sim800c.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\sim800c.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\output\sim800c.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+..\output\sim800c.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+..\output\sim800c.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\output\sim800c.o: ..\Hardware\delay\delay.h
+..\output\sim800c.o: ..\Hardware\sys\sys.h
+..\output\sim800c.o: ..\Hardware\USART1\usart1.h
+..\output\sim800c.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\string.h
