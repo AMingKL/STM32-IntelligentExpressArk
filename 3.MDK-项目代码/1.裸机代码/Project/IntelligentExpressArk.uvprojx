@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER,STM32F10X_MD</Define>
               <Undefine></Undefine>
-              <IncludePath>..\Libraries\CMSIS;..\Libraries\STM32F10x_StdPeriph_Driver\inc;..\Hardware\sys;..\Hardware\delay;..\Hardware\GPIO;..\Hardware\USART3;..\Hardware\AS608;..\Hardware\Tim3;..\Hardware\TIM4;..\Hardware\USART1;..\Hardware\USART2;..\Hardware\Flash;..\Hardware\gsm;..\Hardware\nvic;..\..\2.使用FreeRTOS\RTOS\include;..\..\2.使用FreeRTOS\RTOS\port\RVDS\ARM_CM3;..\..\2.使用FreeRTOS\Users</IncludePath>
+              <IncludePath>..\Libraries\CMSIS;..\Libraries\STM32F10x_StdPeriph_Driver\inc;..\Hardware\sys;..\Hardware\delay;..\Hardware\GPIO;..\Hardware\USART3;..\Hardware\AS608;..\Hardware\Tim3;..\Hardware\TIM4;..\Hardware\USART1;..\Hardware\USART2;..\Hardware\Flash;..\Hardware\gsm;..\Hardware\nvic;..\Users</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -552,16 +552,6 @@
               <FileType>5</FileType>
               <FilePath>..\Users\myconfig.h</FilePath>
             </File>
-            <File>
-              <FileName>FreeRTOSConfig.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\Users\FreeRTOSConfig.h</FilePath>
-            </File>
-            <File>
-              <FileName>FreeRTOS.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\include\FreeRTOS.h</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -626,56 +616,6 @@
               <FileName>nvic.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Hardware\nvic\nvic.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>FreeRTOS/src</GroupName>
-          <Files>
-            <File>
-              <FileName>croutine.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\src\croutine.c</FilePath>
-            </File>
-            <File>
-              <FileName>event_groups.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\src\event_groups.c</FilePath>
-            </File>
-            <File>
-              <FileName>list.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\src\list.c</FilePath>
-            </File>
-            <File>
-              <FileName>queue.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\src\queue.c</FilePath>
-            </File>
-            <File>
-              <FileName>tasks.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\src\tasks.c</FilePath>
-            </File>
-            <File>
-              <FileName>timers.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\src\timers.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>FreeRTOS/port</GroupName>
-          <Files>
-            <File>
-              <FileName>port.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\port\RVDS\ARM_CM3\port.c</FilePath>
-            </File>
-            <File>
-              <FileName>heap_4.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\2.使用FreeRTOS\RTOS\port\MemMang\heap_4.c</FilePath>
             </File>
           </Files>
         </Group>

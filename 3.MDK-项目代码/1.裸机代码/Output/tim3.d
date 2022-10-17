@@ -5,7 +5,7 @@
 ..\output\tim3.o: ..\Libraries\CMSIS\core_cm3.h
 ..\output\tim3.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\tim3.o: ..\Libraries\CMSIS\system_stm32f10x.h
-..\output\tim3.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\tim3.o: ..\Users\stm32f10x_conf.h
 ..\output\tim3.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 ..\output\tim3.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\tim3.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h

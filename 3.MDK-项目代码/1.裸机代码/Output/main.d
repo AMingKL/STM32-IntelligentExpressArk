@@ -1,12 +1,10 @@
 ..\output\main.o: ..\Users\main.c
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\include\FreeRTOS.h
-..\output\main.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\main.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
-..\output\main.o: ..\..\2.使用FreeRTOS\Users\FreeRTOSConfig.h
+..\output\main.o: ..\Users\myconfig.h
 ..\output\main.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\main.o: ..\Libraries\CMSIS\core_cm3.h
+..\output\main.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\main.o: ..\Libraries\CMSIS\system_stm32f10x.h
-..\output\main.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\main.o: ..\Users\stm32f10x_conf.h
 ..\output\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 ..\output\main.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
@@ -31,7 +29,6 @@
 ..\output\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 ..\output\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 ..\output\main.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-..\output\main.o: ..\..\2.使用FreeRTOS\Users\myconfig.h
 ..\output\main.o: ..\Hardware\delay\delay.h
 ..\output\main.o: ..\Hardware\sys\sys.h
 ..\output\main.o: ..\Hardware\Flash\stmflash.h
@@ -46,11 +43,3 @@
 ..\output\main.o: ..\Hardware\USART3\usart3.h
 ..\output\main.o: ..\Hardware\gsm\sim800c.h
 ..\output\main.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\string.h
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\include\projdefs.h
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\include\portable.h
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\include\deprecated_definitions.h
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\port\RVDS\ARM_CM3\portmacro.h
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\include\mpu_wrappers.h
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\include\task.h
-..\output\main.o: ..\..\2.使用FreeRTOS\RTOS\include\list.h
-..\output\main.o: ..\Users\myconfig.h

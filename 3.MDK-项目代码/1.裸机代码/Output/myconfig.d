@@ -4,7 +4,7 @@
 ..\output\myconfig.o: ..\Libraries\CMSIS\core_cm3.h
 ..\output\myconfig.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\myconfig.o: ..\Libraries\CMSIS\system_stm32f10x.h
-..\output\myconfig.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\myconfig.o: ..\Users\stm32f10x_conf.h
 ..\output\myconfig.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 ..\output\myconfig.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\myconfig.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h

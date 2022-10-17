@@ -5,7 +5,7 @@
 ..\output\delay.o: ..\Libraries\CMSIS\core_cm3.h
 ..\output\delay.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\delay.o: ..\Libraries\CMSIS\system_stm32f10x.h
-..\output\delay.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\delay.o: ..\Users\stm32f10x_conf.h
 ..\output\delay.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 ..\output\delay.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\delay.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h

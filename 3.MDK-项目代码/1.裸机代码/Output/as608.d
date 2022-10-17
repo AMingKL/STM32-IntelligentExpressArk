@@ -1,12 +1,12 @@
 ..\output\as608.o: ..\Hardware\AS608\as608.c
 ..\output\as608.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\string.h
 ..\output\as608.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\as608.o: ..\..\2.使用FreeRTOS\Users\myconfig.h
+..\output\as608.o: ..\Users\myconfig.h
 ..\output\as608.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\as608.o: ..\Libraries\CMSIS\core_cm3.h
 ..\output\as608.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\as608.o: ..\Libraries\CMSIS\system_stm32f10x.h
-..\output\as608.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\as608.o: ..\Users\stm32f10x_conf.h
 ..\output\as608.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 ..\output\as608.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\as608.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h

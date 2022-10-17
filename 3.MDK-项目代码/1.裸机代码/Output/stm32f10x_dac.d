@@ -4,7 +4,7 @@
 ..\output\stm32f10x_dac.o: ..\Libraries\CMSIS\core_cm3.h
 ..\output\stm32f10x_dac.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\stm32f10x_dac.o: ..\Libraries\CMSIS\system_stm32f10x.h
-..\output\stm32f10x_dac.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\stm32f10x_dac.o: ..\Users\stm32f10x_conf.h
 ..\output\stm32f10x_dac.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 ..\output\stm32f10x_dac.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\stm32f10x_dac.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h

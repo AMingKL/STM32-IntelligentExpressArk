@@ -4,7 +4,7 @@
 ..\output\stm32f10x_it.o: ..\Libraries\CMSIS\core_cm3.h
 ..\output\stm32f10x_it.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\stm32f10x_it.o: ..\Libraries\CMSIS\system_stm32f10x.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\Users\stm32f10x_conf.h
+..\output\stm32f10x_it.o: ..\Users\stm32f10x_conf.h
 ..\output\stm32f10x_it.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 ..\output\stm32f10x_it.o: ..\Libraries\CMSIS\stm32f10x.h
 ..\output\stm32f10x_it.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
@@ -29,28 +29,3 @@
 ..\output\stm32f10x_it.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 ..\output\stm32f10x_it.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 ..\output\stm32f10x_it.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\include\FreeRTOS.h
-..\output\stm32f10x_it.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\Users\FreeRTOSConfig.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\Users\myconfig.h
-..\output\stm32f10x_it.o: ..\Hardware\delay\delay.h
-..\output\stm32f10x_it.o: ..\Hardware\sys\sys.h
-..\output\stm32f10x_it.o: ..\Hardware\Flash\stmflash.h
-..\output\stm32f10x_it.o: ..\Hardware\TIM4\tim4.h
-..\output\stm32f10x_it.o: ..\Hardware\Tim3\tim3.h
-..\output\stm32f10x_it.o: ..\Hardware\GPIO\gpio.h
-..\output\stm32f10x_it.o: ..\Hardware\nvic\nvic.h
-..\output\stm32f10x_it.o: ..\Hardware\AS608\as608.h
-..\output\stm32f10x_it.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\stm32f10x_it.o: ..\Hardware\USART1\usart1.h
-..\output\stm32f10x_it.o: ..\Hardware\USART2\usart2.h
-..\output\stm32f10x_it.o: ..\Hardware\USART3\usart3.h
-..\output\stm32f10x_it.o: ..\Hardware\gsm\sim800c.h
-..\output\stm32f10x_it.o: D:\keil 5\anzhuangdizhi\ARM\ARMCC\Bin\..\include\string.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\include\projdefs.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\include\portable.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\include\deprecated_definitions.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\port\RVDS\ARM_CM3\portmacro.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\include\mpu_wrappers.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\include\task.h
-..\output\stm32f10x_it.o: ..\..\2.使用FreeRTOS\RTOS\include\list.h
